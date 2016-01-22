@@ -7,5 +7,6 @@
 3. Run `bundle install`
 
 ### Running the test:
-1. In the project root, run the command: `cucumber ./features/meme_creation.feature --format progress --format html --out=features_report.html`
+1. In the project root, run the command: 
+`cucumber ./features/meme_creation.feature --format progress --format html --out=features_report.html`
 2. Results should be shown on the terminal
