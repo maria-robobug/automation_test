@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'rspec'
+gem 'cucumber'
+gem 'watir-webdriver'
+gem 'page-object'
+gem 'nokogiri', '1.6.7.2'
