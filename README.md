@@ -1,4 +1,4 @@
-# Maria Shodunke - MemeGenerator Test
+# MemeGenerator Test
 
 ### Setup:
 1. Install ruby 2.1.1 or higher
